@@ -4,3 +4,10 @@ cp filename名称或者绝对路径 空格  新的路径
  错误 cp /home/text.txt /home/tt 文件将要创建到 /home 中的名称为tt的文件
 
  错误 cp /home/text.txt /home/tt/text.txt 提示：报错，无tt目录
+
+Oracle 调用shell文件
+参考网址：
+https://blog.csdn.net/zq9017197/article/details/6982580
+https://blog.csdn.net/qq_40709468/article/details/81876828
+https://www.cnblogs.com/yscit/p/10376005.html
+查询数据库的dbms_job中内容
