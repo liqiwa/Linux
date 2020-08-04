@@ -1,0 +1,8 @@
+1.cp
+复制文件至新的目录
+cp filename名称或者绝对路径 空格  新的路径
+ 错误 cp /home/text.txt /home/tt 文件将要创建到 /home 中的名称为tt的文件
+
+ 错误 cp /home/text.txt /home/tt/text.txt 提示：报错，无tt目录
+
+ 
