@@ -11,3 +11,17 @@ https://blog.csdn.net/zq9017197/article/details/6982580
 https://blog.csdn.net/qq_40709468/article/details/81876828
 https://www.cnblogs.com/yscit/p/10376005.html
 查询数据库的dbms_job中内容
+
+日期：2020-8-5
+
+1.sqlldr加载数据用到ctl文件，使用shell脚本判断，处理结构话。
+2.分区表创建。常用表空间脚本等等。
+    https://www.cnblogs.com/pejsidney/p/8057372.html
+    https://blog.csdn.net/sayyy/article/details/80006939
+    connect 
+    https://blog.csdn.net/wang_yunj/article/details/51040029
+sql中的nologging 
+https://www.cnblogs.com/zmlctt/p/3747443.html
+3.sql存储过程编写，记录日志信息，开始结束，报错的记录等等。
+4.分析当前系统的数据结构，画脑图。
+
